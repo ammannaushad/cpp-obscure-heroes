@@ -1,1 +1,1 @@
-# cpp-obscure-heroes
+In this project, I used multidimensional and parallel arrays to add superheroes names, superpowers, weaknesses, universes, and the year introduced. I even added a bonus feature of sorting the superheroes based on the ranking of their popularity. Individuals can type, “g++ main.cpp -o superhero” to compile the program and “./superhero” to run it. 
